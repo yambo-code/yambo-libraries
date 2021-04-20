@@ -55,7 +55,7 @@ Following a list of libraries that are part of the Yambo code distribution.
 * [scalapack-2.0.2.tar.gz](https://github.com/yambo-code/yambo/files/783153/scalapack-2.0.2.tar.gz)
 * [petsc-3.7.4.tar.gz](https://github.com/yambo-code/yambo/files/783154/petsc-3.7.4.tar.gz)
 * [slepc-3.7.3.tar.gz](https://github.com/yambo-code/yambo/files/789647/slepc-3.7.3.tar.gz)
-* 
+
 ### GIT-lfs (for developers)
 
 Main source: https://docs.github.com/en/github/managing-large-files/
@@ -65,11 +65,6 @@ Installation: https://docs.github.com/en/github/managing-large-files/installing-
 
 ### Yambo
 Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
-
-Quick installation instructions for the impatient. In each folder you can simply type:
-   ./configure
-   make all
-Binaries go in bin/, libraries in lib/ and modules in include/.
 
 For more information, see the general documentation on the web site http://www.yambo-code.org/
 
@@ -86,10 +81,6 @@ These programs are distributed in the hope that they will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
 or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License 
 for more details (see COPYING file).
-
-This is the distribution of the Yambo code.
-Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
-
 
 
 

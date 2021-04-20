@@ -20,7 +20,7 @@ As part of the modularization of the Yambo code, one of the goals is to split th
 The source code of the library is not contained anymore in the main repo of the yambo code, but it has been moved in this dedicated repository imported as  submodule in the main code.
 
 This is the latest release of the driver
-* [driver-0.0.2.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/0.0.2.tar.gz)
+* [Ydriver-0.0.2.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/Ydriver-0.0.2.tar.gz)
 
 ### External Libraries
 

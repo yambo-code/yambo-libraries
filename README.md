@@ -44,13 +44,6 @@ Following a list of libraries that are part of the Yambo code distribution.
 * [futile-1.0](https://github.com/yambo-code/yambo-libraries/raw/master/external/futile-yambo.tar.gz)
 * [yaml-0.2.2](https://github.com/yambo-code/yambo-libraries/raw/master/external/yaml-0.2.2.tar.gz)
 
-### GIT-lfs (for developers)
-
-Main source: https://docs.github.com/en/github/managing-large-files/
-
-#### Step-by-step
-Installation: https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
-
 ### Yambo
 Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
 
@@ -70,5 +63,12 @@ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
 or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License 
 for more details (see COPYING file).
 
+### GIT-lfs (for developers)
+
+Main source: https://docs.github.com/en/github/managing-large-files/
+
+#### Step-by-step
+
+Installation: https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
 
 

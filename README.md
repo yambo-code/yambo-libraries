@@ -1,4 +1,12 @@
-This is the distribution of the Libraries derived from the Yambo source and transformed in independent packages.
+## Yambo Libraries
+
+This is the distribution of the Libraries needed during the compilation of the Yambo source (http://www.yambo-code.org).
+
+There are two kind of libraries:
+
+  *
+
+and transformed in independent packages.
 
 Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance. 
 Unless you really want it to. 
@@ -24,3 +32,15 @@ These programs are distributed in the hope that they will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
 or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License 
 for more details (see COPYING file).
+
+This is the distribution of the Yambo code.
+Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
+
+
+Main source:
+
+https://docs.github.com/en/github/managing-large-files/
+
+Steps:
+https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
+

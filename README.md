@@ -3,21 +3,30 @@
 This is the distribution of the Libraries needed during the compilation of the Yambo source (http://www.yambo-code.org).
 
 There are two kind of libraries:
+   * internal: those are derived from the Yambo source itself. Some modular parts have been made independent and exported. 
+   * external: those are standard libraries packed so to be usable by Yambo.
 
-  *
+### Internal Libraries
 
-and transformed in independent packages.
+#### C Driver
 
-Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance. 
-Unless you really want it to. 
+
+### GIT-lfs (for developers)
+
+Main source: https://docs.github.com/en/github/managing-large-files/
+
+Step-by-step
+Installation: https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
+
+### Yambo
+Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
 
 Quick installation instructions for the impatient. In each folder you can simply type:
    ./configure
    make all
 Binaries go in bin/, libraries in lib/ and modules in include/.
 
-For more information, see the general documentation on the web site
-http://www.yambo-code.org/
+For more information, see the general documentation on the web site http://www.yambo-code.org/
 
 Compiling:  http://www.yambo-code.org/download/compiling.php
 Installing: http://www.yambo-code.org/download/installing.php
@@ -37,10 +46,5 @@ This is the distribution of the Yambo code.
 Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
 
 
-Main source:
 
-https://docs.github.com/en/github/managing-large-files/
-
-Steps:
-https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
 

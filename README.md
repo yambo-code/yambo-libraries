@@ -10,9 +10,9 @@ You do not need to download the library files, unless you don't want to use them
 
 In any case the libraries will be automatically downloaded either at the git checkout time or when building the source (depending on the way yambo was installed).
 
-In case you are going to compile yambo on a machine that does not have access to the internet, you can first get all needed files in the proper place just entering the yambo source and running (option available since version 5.0)
+In case you are going to compile yambo on a machine that does not have access to the internet, you can first get all needed files in the proper place just entering the yambo source and running (option available since version 5.0 and without running the configure script)
 
-`./sbin/download_all_libs.sh`
+`make download`
 
 ### Internal Libraries (Needed since yambo 5.0)
 

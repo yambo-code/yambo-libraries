@@ -19,30 +19,7 @@ In case you are going to compile yambo on a machine that does not have access to
 As part of the modularization of the Yambo code, one of the goals is to split the source into different blocks (or modules), and eventually promote them into libraries. So far we created, as an experimental library, the driver library.
 The source code of the library is not contained anymore in the main repo of the yambo code, but it has been moved in this dedicated repository imported as  submodule in the main code.
 
-This is the latest release of the driver
-* [Ydriver-0.0.2.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/Ydriver-0.0.2.tar.gz)
-
-### External Libraries
-
-Following a list of libraries that are part of the Yambo code distribution.
-
-* [lapack-3.9.0.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/lapack-3.9.0.tar.gz)
-* [netcdf-fortran-4.5.3.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/netcdf-fortran-4.5.3.tar.gz)
-* [netcdf-c-4.7.4.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/netcdf-c-4.7.4.tar.gz)
-* [pnetcdf-1.12.1.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/pnetcdf-1.12.1.tar.gz)
-* [hdf5-1.12.0.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/hdf5-1.12.0.tar.gz)
-* [scalapack-2.1.0.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/scalapack-2.1.0.tar.gz)
-* [petsc-3.13.4.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/petsc-3.13.4.tar.gz)
-* [slepc-3.13.3.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/slepc-3.13.3.tar.gz)
-* [iotk-y1.2.2.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/iotk-y1.2.2.tar.gz)
-* [etsf_io-1.0.4.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/etsf_io-1.0.4.tar.gz)
-* [libxc-2.2.3.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/libxc-2.2.3.tar.gz)
-* [blacs.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/blacs.tar.gz)
-* [slatec.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/slatec.tar.gz)
-* [fftw-3.3.6-pl1.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/fftw-3.3.6-pl1.tar.gz)
-* [fftqe.tar.gz](https://github.com/yambo-code/yambo-libraries/raw/master/external/fftqe.tar.gz)
-* [futile-1.0](https://github.com/yambo-code/yambo-libraries/raw/master/external/futile-yambo.tar.gz)
-* [yaml-0.2.2](https://github.com/yambo-code/yambo-libraries/raw/master/external/yaml-0.2.2.tar.gz)
+The driver releases can be found in the [releases](https://github.com/yambo-code/yambo-libraries/releases) page.
 
 ### Yambo
 Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 

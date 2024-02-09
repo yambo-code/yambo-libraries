@@ -17,9 +17,9 @@ In case you are going to compile yambo on a machine that does not have access to
 ### Internal Libraries (Needed since yambo 5.0)
 
 As part of the modularization of the Yambo code, one of the goals is to split the source into different blocks (or modules), and eventually promote them into libraries. So far we created, as an experimental library, the driver library.
-The source code of the library is not contained anymore in the main repo of the yambo code, but it has been moved in this dedicated repository imported as  submodule in the main code.
+The source code of the library is not contained anymore in the main repo of the yambo code, but it has been moved in this dedicated repository:
 
-The driver releases can be found in the [releases](https://github.com/yambo-code/yambo-libraries/releases) page.
+The driver releases can be found in the [releases](https://github.com/yambo-code/Ydriver/releases) page.
 
 ### Yambo
 Yambo doesn't stand for anything like "Yet Another Many-Body cOde", for instance.  Unless you really want it to. 
@@ -47,5 +47,3 @@ Main source: https://docs.github.com/en/github/managing-large-files/
 #### Step-by-step
 
 Installation: https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
-
-
